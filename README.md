@@ -18,3 +18,7 @@ Idag skapade grundstruktur med startsida och navigation, det var inte så jätte
 
 # tills vidare
 Lade till fiender som faller från toppen av skärmen. Gjorde kollision mellan spelare och fiender samt game over när man träffar en fiende.
+
+# hur den funkar?
+
+# utvärdering!
